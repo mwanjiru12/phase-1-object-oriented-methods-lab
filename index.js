@@ -1,7 +1,3 @@
-/* Do not implement your solution like the code we have included at the bottom.
- * That implementation uses too much space and misses the point of prototypes
- */
-
 function BoardMember(name, homeState, training){
     this.name = name
     this.homeState = homeState
